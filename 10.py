@@ -1,4 +1,4 @@
-# The next code works but it is to slow.
+# The next code works but it is too slow.
 
 # numbers = []
 
